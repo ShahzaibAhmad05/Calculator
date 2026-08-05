@@ -11,22 +11,13 @@ Simple inputs. Handles two numbers and one operation at a time.
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/16RAB2sc5SgkDcN0T6Ue7XOSczrmsSHgD" alt="Calculator App Screenshot">
-</p>
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/8cb33d2a-5577-4185-9090-e2adfdb53b40" />
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/19l7AV4TV330T6iBizhTAf0Ftb2BCVphW" alt="Calculator App Screenshot 2">
-</p>
+<img width="1920" height="1200" alt="2" src="https://github.com/user-attachments/assets/54a918e3-b45e-4b92-9b3a-2cb6803b0033" />
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1DZbNxP1cf8-mb-gu6CnYJVo19lZ6YcIG" alt="Calculator App Screenshot 3">
-</p>
+<img width="1920" height="1200" alt="3" src="https://github.com/user-attachments/assets/15d8a2b2-20e9-4155-a13f-e2abb5bdb231" />
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1P7llXTmpn7qImBULVMj3vyTpCTkjA7da" alt="Calculator App UI">
-</p>
-
+<img width="1920" height="1200" alt="4" src="https://github.com/user-attachments/assets/0667b780-e944-4454-b079-6ad46509d418" />
 
 ---
 
@@ -39,8 +30,7 @@ Simple inputs. Handles two numbers and one operation at a time.
 
 ## Try it
 
-<a href="https://drive.google.com/uc?export=download&id=1xAALMAyzZl4ewpXzfnpBtmKhxRqHxnWz">Download EXE File</a>
-
+Download the latest `.exe` from releases. Works on windows and linux (using `exe` runner tools).
 
 ---
 
